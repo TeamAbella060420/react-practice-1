@@ -1,13 +1,13 @@
-import React from 'react'
+import React from "react";
 
 const test = () => {
   return (
     <div>
-      <h2>
-        HEllo World
-      </h2>
-    </div>
-  )
-}
+      <h2>HEllo World</h2>
 
-export default test
+      <h2>HEllo universe</h2>
+    </div>
+  );
+};
+
+export default test;
